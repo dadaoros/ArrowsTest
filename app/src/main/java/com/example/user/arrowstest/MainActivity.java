@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     public static final int FAILED_STATE = 1;
     public static final int DEFAULT_STATE = 2;
 
-    private final int NUMBER_OF_STAGES = 5;
+    private final int NUMBER_OF_STAGES = 12;
     private int selectedStage = 3;
 
     @Override
